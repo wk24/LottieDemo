@@ -1,2 +1,2 @@
-include ':app'
+include ':app',':X5WebDemo', ':mylibrary'
 rootProject.name='LottieDemo'
